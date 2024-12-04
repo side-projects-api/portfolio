@@ -1,7 +1,10 @@
 [{
         "id": "prox",
         "title": "ProX",
-        "image": "https://side-projects-api.github.io/portfolio/images/projects/prox/",
+        "images": [
+            "https://side-projects-api.github.io/portfolio/images/projects/prox/prox.jpg",
+            "https://side-projects-api.github.io/portfolio/images/projects/prox/2.jpg"
+        ],
         "techs": [
             "Flutter",
             "Firebase",
@@ -13,7 +16,10 @@
     {
         "id": "powerhouse",
         "title": "Powerhouse",
-        "image": "https://side-projects-api.github.io/portfolio/images/projects/powerhouse/",
+        "images": [
+            "https://side-projects-api.github.io/portfolio/images/projects/powerhouse/powerhouse.png",
+            "https://side-projects-api.github.io/portfolio/images/projects/powerhouse/2.jpg"
+        ],
         "techs": [
             "React",
             "Node",
