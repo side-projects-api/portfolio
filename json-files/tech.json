@@ -1,0 +1,41 @@
+[{
+        "imgSrc": "https://side-projects-api.github.io/portfolio/images/skills/flutter.png",
+        "title": "Flutter",
+        "href": "https://flutter.dev/"
+    },
+    {
+        "imgSrc": "https://side-projects-api.github.io/portfolio/images/skills/react.png",
+        "title": "React",
+        "href": "https://reactjs.org/"
+    },
+    {
+        "imgSrc": "https://side-projects-api.github.io/portfolio/images/skills/nodejs.png",
+        "title": "Node",
+        "href": "https://nodejs.org/"
+    },
+    {
+        "imgSrc": "https://side-projects-api.github.io/portfolio/images/skills/mongo.png",
+        "title": "Mongo",
+        "href": "https://www.mongodb.com/"
+    },
+    {
+        "imgSrc": "https://side-projects-api.github.io/portfolio/images/skills/ts.png",
+        "title": "Typescript",
+        "href": "https://www.typescriptlang.org/"
+    },
+    {
+        "imgSrc": "https://side-projects-api.github.io/portfolio/images/skills/js.png",
+        "title": "Javascript",
+        "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+    },
+    {
+        "imgSrc": "https://side-projects-api.github.io/portfolio/images/skills/mysql.png",
+        "title": "MySql",
+        "href": "https://www.mysql.com/"
+    },
+    {
+        "imgSrc": "https://side-projects-api.github.io/portfolio/images/skills/git.png",
+        "title": "Git",
+        "href": "https://git-scm.com/"
+    }
+]
