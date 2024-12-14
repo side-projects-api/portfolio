@@ -2,6 +2,7 @@
         "id": "ZAR-HUB",
         "title": "ZAR-Hub",
         "images": [
+            "https://side-projects-api.github.io/portfolio/images/projects/project-zarhouni/pic-main.png",
             "https://side-projects-api.github.io/portfolio/images/projects/project-zarhouni/pic-01.png",
             "https://side-projects-api.github.io/portfolio/images/projects/project-zarhouni/pic-02.png",
             "https://side-projects-api.github.io/portfolio/images/projects/project-zarhouni/pic-03.png",
@@ -30,6 +31,7 @@
         "id": "PROX",
         "title": "ProX",
         "images": [
+            "https://side-projects-api.github.io/portfolio/images/projects/project-prox/pic-main.jpg",
             "https://side-projects-api.github.io/portfolio/images/projects/project-prox/pic-01.jpg",
             "https://side-projects-api.github.io/portfolio/images/projects/project-prox/pic-02.jpg",
             "https://side-projects-api.github.io/portfolio/images/projects/project-prox/pic-03.jpg",
@@ -51,6 +53,7 @@
         "id": "POWERHOUSE",
         "title": "Powerhouse",
         "images": [
+            "https://side-projects-api.github.io/portfolio/images/projects/project-powerhouse/pic-main.png",
             "https://side-projects-api.github.io/portfolio/images/projects/project-powerhouse/pic-01.png",
             "https://side-projects-api.github.io/portfolio/images/projects/project-powerhouse/pic-02.png",
             "https://side-projects-api.github.io/portfolio/images/projects/project-powerhouse/pic-03.png",
@@ -85,6 +88,7 @@
         "id": "QUASARS",
         "title": "Quasars",
         "images": [
+            "https://side-projects-api.github.io/portfolio/images/projects/project-quasars/pic-main.png",
             "https://side-projects-api.github.io/portfolio/images/projects/project-quasars/pic-01.png",
             "https://side-projects-api.github.io/portfolio/images/projects/project-quasars/pic-02.png",
             "https://side-projects-api.github.io/portfolio/images/projects/project-quasars/pic-03.png",
