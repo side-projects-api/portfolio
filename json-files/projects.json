@@ -1,6 +1,6 @@
 [{
-        "id": "tp-zarhouni",
-        "title": "Zarhouni",
+        "id": "ZAR-HUB",
+        "title": "ZAR-Hub",
         "images": [
             "https://side-projects-api.github.io/portfolio/images/projects/project-zarhouni/pic-01.png",
             "https://side-projects-api.github.io/portfolio/images/projects/project-zarhouni/pic-02.png",
@@ -27,7 +27,7 @@
         "description": "As part of our web development coursework, we are tasked with designing a comprehensive university management system that enhances organization and efficiency. This website serves as a centralized platform for managing key university operations, featuring robust CRUD (Create, Read, Update, Delete) functionalities for both students and teachers. It also includes modules for handling subjects, recording and tracking marks or grades, and generating insightful statistics to support academic decision-making and performance evaluation. By combining user-friendly interfaces with powerful features, this project showcases our ability to create effective digital solutions tailored to the needs of an academic institution."
     },
     {
-        "id": "prox",
+        "id": "PROX",
         "title": "ProX",
         "images": [
             "https://side-projects-api.github.io/portfolio/images/projects/project-prox/pic-01.jpg",
@@ -48,7 +48,7 @@
         "description": "ProX is a sleek and intuitive to-do list app developed with Flutter in summer 2023. It offers cross-platform compatibility, customizable task categories, reminders, and collaborative tools to help users efficiently manage their tasks on both Android and iOS devices."
     },
     {
-        "id": "powerhouse",
+        "id": "POWERHOUSE",
         "title": "Powerhouse",
         "images": [
             "https://side-projects-api.github.io/portfolio/images/projects/project-powerhouse/pic-01.png",
@@ -82,7 +82,7 @@
         "description": "Powerhouse, my capstone project for my graduation degree, is a comprehensive gym management platform that enables users to book classes, reserve equipment, communicate with coaches, and track their activities."
     },
     {
-        "id": "quasars",
+        "id": "QUASARS",
         "title": "Quasars",
         "images": [
             "https://side-projects-api.github.io/portfolio/images/projects/project-quasars/pic-01.png",
