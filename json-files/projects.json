@@ -1,4 +1,5 @@
-[{
+[
+    {
         "id": "PROX",
         "title": "ProX",
         "images": [
@@ -96,5 +97,24 @@
         ],
         "link": "https://drive.google.com/drive/u/2/folders/1nUXyEh_ndacT0EGKI3YC2vCwkpcxS9nA",
         "description": "Quasras is a full-stack application showcasing fitness clothing with a user-friendly interface and efficient management tools. Users can explore curated sections like Popular Products and New Arrivals, view detailed product information, and check availability without authentication. Admins access a secure backend to manage the catalog, including adding, updating, and organizing products with attributes like sizes, colors, pricing, and stock status. Quasras delivers a seamless experience, combining style and functionality for fitness clothing retail."
+    },
+    {
+        "id": "FATIEL",
+        "title": "Fatiel",
+        "images": [
+            "https://side-projects-api.github.io/portfolio/images/projects/project-fatiel/pic-main.jpg",
+            "https://side-projects-api.github.io/portfolio/images/projects/project-fatiel/pic-01.jpg",
+            "https://side-projects-api.github.io/portfolio/images/projects/project-fatiel/pic-02.jpg",
+            "https://side-projects-api.github.io/portfolio/images/projects/project-fatiel/pic-03.jpg"
+        ],
+        "techs": [
+            "Flutter",
+            "Firebase",
+            "Cloudinary",
+            "Bloc",
+            "Git"
+        ],
+        "link": "https://drive.google.com/drive/folders/1AG2_S7n7_P2l2kz8dFjpRUZm-zLoIZux?usp=sharing",
+        "description": "Fatiel is a real-world hotel booking and management app built with Flutter and Firebase. It supports multiple user roles: Admins manage hotels and earnings, Hotel Owners can list properties after approval, and Visitors can browse and book. Features include admin-controlled hotel subscriptions, an earnings dashboard, role-based routing, and secure media upload with Cloudinary."
     }
 ]

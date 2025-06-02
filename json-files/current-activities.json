@@ -1,21 +1,18 @@
-[{
+[
+    {
         "id": "1",
-        "title": "Pursuing a Master's in Computer Networking & Security"
+        "title": "Pursuing a Master's in Computer Networking & Security to Deepen My Expertise in Infrastructure and Cybersecurity"
     },
     {
         "id": "2",
-        "title": "Preparing for CCNA Certification"
+        "title": "Advancing My Skills in Web & Mobile Development Using Modern Frameworks Like Flutter, React, and Node.js"
     },
     {
         "id": "3",
-        "title": "Exploring Web & Mobile Development"
+        "title": "Designing and Building Scalable, User-Centered Applications That Solve Real-World Problems"
     },
     {
         "id": "4",
-        "title": "Building User-Centric Applications"
-    },
-    {
-        "id": "5",
-        "title": "Seeking Collaboration and Professional Growth"
+        "title": "Collaborating with Forward-Thinking Teams and Seeking Opportunities That Promote Continuous Learning and Impact"
     }
 ]
